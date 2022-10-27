@@ -1,0 +1,13 @@
+
+th{
+    text-align: center;
+}
+td{
+    text-align: end;
+}
+a{
+    text-decoration-line : none;
+}
+.list-group-item{
+    border-color :goldenrod;
+}
